@@ -1,0 +1,16 @@
+{
+  "name": "autoclick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "01397 <01397dev@gmail.com> (https://github.com/01397)",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^19.5.0"
+  }
+}
